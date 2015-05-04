@@ -6,7 +6,7 @@ Nginx requires build modules: WebDAV WebDavExt and Lua.
 
 Copyright (c) 2015 by Yura Vdovytchenko (max@itcod.com)
 
-Copyright (c)itcod 2015
+Copyright (c)itcod 2010-2015
 
 path lua file: /etc/nginx/lua/itcod-exchange.lua
 
