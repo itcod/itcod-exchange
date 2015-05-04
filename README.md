@@ -1,9 +1,11 @@
 # itcod-exchange
 SOA ITCOD. EXCHANGE. 
-Service automated exchange of files between users for the WebDAV interface. 
+Service automated exchange of files between users for the WebDAV interface.
+
 Nginx requires build modules: WebDAV WebDavExt and Lua.
 
 -- Copyright (c) 2015 by Yura Vdovytchenko (max@itcod.com)
+
 -- Copyright (c)itcod 2015
 
 --path lua file: /etc/nginx/lua/itcod-exchange.lua
